@@ -32,6 +32,13 @@ Features I have Implemented
 * Commands
   * Start with - **/hello**
   * For any Info(Sigs, Members, Comming events, Past events, Convenor) - Start with **.wec** leaving a space after that type further message of your choice.
+ 
+
+* Python Libraries used
+  * load-dotenv
+  * discord.py
+  * aiomysql
+  * mysql-connector-python
 
 
 * Here are some pictures of the messages and the user interface
@@ -46,6 +53,7 @@ Features I have Implemented
     * Systems
 
 ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/a74b0ff8-66a1-4428-a301-b50a44a98c21)
+
 ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/a7726825-8691-43dd-a2ca-5f13abc5ec83)
 * This is the DashBoard
 * This interface is a Rigid Desktop application coded in core JAVA
