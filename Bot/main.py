@@ -38,13 +38,25 @@ async def check_database_for_updates():
             print(f"Error checking the database: {e}")
 
 # Words of Commands asked
-sig_words = ["sig", "groups", "interestgroups","wecsigs" , "special interest groups", "interest groups", "group"]
-members_words =["members", "people", "ppl", "team" ,"seniors"] 
-upevents_words =["upcommingevents", "newevents" ,"commingevents", "nextevents", "curr" ,"current"] 
-pevents_words = ["oldevents", "previousevents", "pastevents", "prevevents", "doneevents", "prev"]
-con = ["whoistheconvenorofthewebclub"]
-comeve = ["whatistheupcommingevent","commingupnext"]
-thanks_words = ["thankyou", "thanks", "appreciate", "gratitude"]
+sig_words = [
+    "sig", "groups", "interestgroups", "wecsigs", "specialinterestgroups",
+    "interestgroups", "group"
+]
+members_words = ["members", "people", "ppl", "team", "seniors"]
+upevents_words = [
+    "upcommingevents", "newevents", "commingevents", "nextevents", "curr",
+    "current"
+]
+pevents_words = [
+    "oldevents", "previousevents", "pastevents", "prevevents",
+    "doneevents", "prev","previouslyheld"
+]
+con = [
+    "who is the convenor of the web club", "whoistheconvenorofthewebclub",
+    "con", "convenor"
+]
+comeve = ["whatistheupcomming event", "commingupnext"]
+thanks_words = ["thank you", "thanks", "appreciate ", "gratitude", "thankyou"]
 
 @client.event
 async def on_ready():
