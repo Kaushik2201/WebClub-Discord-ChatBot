@@ -42,9 +42,15 @@ Features I have Implemented
 
 
 * Here are some pictures of the messages and the user interface
-* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/d0d079f0-9ece-404d-9822-e4ff5db0db30)
-* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/89b86393-44af-4c2e-9673-2df83ed6225a)
-* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/de07c8ca-ff31-496f-bff5-3806ebe47249)
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/f476c1dd-e355-4fbb-847c-c4849de86a1e)
+
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/cc3c8a97-52ae-4d69-840f-212ec275ca99)
+
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/384c9ba0-d1e5-40a1-af56-29bc741f3192)
+
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/298492ba-b8b6-4331-9775-739a7cec3e55)
+
+
   * Gives the members info in the mentioned order
     * Core
     * Algo
@@ -52,9 +58,11 @@ Features I have Implemented
     * Intel
     * Systems
 
-![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/a74b0ff8-66a1-4428-a301-b50a44a98c21)
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/80fafa11-6f17-4239-8503-bfa0f6d2bc94)
 
-![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/a7726825-8691-43dd-a2ca-5f13abc5ec83)
+
+* ![image](https://github.com/Kaushik2201/WebClub-Discord-ChatBot/assets/118542939/a83fcf54-49c7-4be7-9852-75ae006fd338)
+
 * This is the DashBoard
 * This interface is a Rigid Desktop application coded in core JAVA
 * The Username and password for login are as followed
