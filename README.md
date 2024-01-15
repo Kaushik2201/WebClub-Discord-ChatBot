@@ -1,10 +1,7 @@
-# Task ID: WebClub Discord ChatBot
+WebClub Discord ChatBot
 
 
-Mentors : Abhiraj Mengade and Ayush Kumar Singh
-
-
-What I have understood from the Problem Statement 
+What My project is of
  * We have to make a discord bot that gives automated reply
  * And an user interface to update the bot info
 
@@ -65,15 +62,7 @@ Features I have Implemented
 
 * This is the DashBoard
 * This interface is a Rigid Desktop application coded in core JAVA
-* The Username and password for login are as followed
-  * Username - Wec2023
-  * Password - Wec@2023
-* Can create your own username and password
 
-
-* [Link for the Discord Server](https://discord.gg/rzbJffuN)
-
-  Built By - Kaushik Kudchadkar - 221EE115
 
 
 
